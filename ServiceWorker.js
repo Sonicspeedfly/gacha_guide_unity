@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project (2)-1.0";
 const contentToCache = [
-    "Build/Gaide.loader.js",
-    "Build/Gaide.framework.js",
-    "Build/Gaide.data",
-    "Build/Gaide.wasm",
+    "Build/gacha_guide_unity.loader.js",
+    "Build/gacha_guide_unity.framework.js",
+    "Build/gacha_guide_unity.data",
+    "Build/gacha_guide_unity.wasm",
     "TemplateData/style.css"
 
 ];
